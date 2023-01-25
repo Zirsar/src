@@ -2,7 +2,6 @@
 //  CreateSubscribeView.swift
 //  SubsReminder
 //
-//  Created by Владислав Харин on 13.01.2022.
 //
 
 
