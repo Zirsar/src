@@ -2,7 +2,6 @@
 //  Cycle.swift
 //  SubsReminder
 //
-//  Created by Владислав Харин on 18.01.2022.
 //
 
 import Foundation
