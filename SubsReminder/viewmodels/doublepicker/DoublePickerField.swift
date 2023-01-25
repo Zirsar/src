@@ -2,7 +2,6 @@
 //  DoublePickerField.swift
 //  SubsReminder
 //
-//  Created by Владислав Харин on 15.01.2022.
 //
 
 import SwiftUI
