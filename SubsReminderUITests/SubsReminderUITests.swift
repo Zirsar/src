@@ -2,7 +2,6 @@
 //  SubsReminderUITests.swift
 //  SubsReminderUITests
 //
-//  Created by Владислав Харин on 11.01.2022.
 //
 
 import XCTest
